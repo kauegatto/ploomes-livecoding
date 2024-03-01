@@ -1,0 +1,113 @@
+{
+	"info": {
+		"_postman_id": "47449b16-3881-4684-9c4c-ac861426ec12",
+		"name": "MiniPloomes",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18058104"
+	},
+	"item": [
+		{
+			"name": "Get All",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5226/api/Conta/{{email}}/Cliente",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5226",
+					"path": [
+						"api",
+						"Conta",
+						"{{email}}",
+						"Cliente"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5226/api/Conta/{{email}}/Cliente/Ambev2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5226",
+					"path": [
+						"api",
+						"Conta",
+						"{{email}}",
+						"Cliente",
+						"Ambev2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Nome\": \"Ambev2\",\r\n    \"UrlAvatar\": \"url\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5226/api/Conta/{{email}}/Cliente",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5226",
+					"path": [
+						"api",
+						"Conta",
+						"{{email}}",
+						"Cliente"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "email",
+			"value": "ploomes@email.com",
+			"type": "string"
+		}
+	]
+}
