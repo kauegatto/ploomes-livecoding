@@ -1,0 +1,6 @@
+@MiniPloomes.WebAPI_HostAddress = http://localhost:5226
+
+GET {{MiniPloomes.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

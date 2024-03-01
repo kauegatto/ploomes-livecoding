@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniPloomes.Domain", "MiniPloomes.Domain\MiniPloomes.Domain.csproj", "{BEE77D11-C540-4CDE-99F4-09CD503E4462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniPloomes.Infrastructure", "MiniPloomes.Infrastructure\MiniPloomes.Infrastructure.csproj", "{C45DD4A6-2811-4329-AF88-F5ACF40FE61C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniPloomes.WebAPI", "MiniPloomes.WebAPI\MiniPloomes.WebAPI.csproj", "{0B327CB3-5423-4AF0-BFBC-26B1D21C5B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE77D11-C540-4CDE-99F4-09CD503E4462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE77D11-C540-4CDE-99F4-09CD503E4462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE77D11-C540-4CDE-99F4-09CD503E4462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE77D11-C540-4CDE-99F4-09CD503E4462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45DD4A6-2811-4329-AF88-F5ACF40FE61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45DD4A6-2811-4329-AF88-F5ACF40FE61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45DD4A6-2811-4329-AF88-F5ACF40FE61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45DD4A6-2811-4329-AF88-F5ACF40FE61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B327CB3-5423-4AF0-BFBC-26B1D21C5B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B327CB3-5423-4AF0-BFBC-26B1D21C5B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B327CB3-5423-4AF0-BFBC-26B1D21C5B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B327CB3-5423-4AF0-BFBC-26B1D21C5B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\bin\Debug\net8.0\MiniPloomes.Domain.deps.json
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\bin\Debug\net8.0\MiniPloomes.Domain.dll
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\bin\Debug\net8.0\MiniPloomes.Domain.pdb
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\obj\Debug\net8.0\MiniPloomes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\obj\Debug\net8.0\MiniPloomes.Domain.AssemblyInfoInputs.cache
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\obj\Debug\net8.0\MiniPloomes.Domain.AssemblyInfo.cs
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\obj\Debug\net8.0\MiniPloomes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\obj\Debug\net8.0\MiniPloomes.Domain.dll
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\obj\Debug\net8.0\refint\MiniPloomes.Domain.dll
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\obj\Debug\net8.0\MiniPloomes.Domain.pdb
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Domain\obj\Debug\net8.0\ref\MiniPloomes.Domain.dll

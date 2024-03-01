@@ -1,0 +1,15 @@
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\bin\Debug\net8.0\MiniPloomes.Infrastructure.deps.json
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\bin\Debug\net8.0\MiniPloomes.Infrastructure.dll
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\bin\Debug\net8.0\MiniPloomes.Infrastructure.pdb
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\bin\Debug\net8.0\MiniPloomes.Domain.dll
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\bin\Debug\net8.0\MiniPloomes.Domain.pdb
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\MiniPloomes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\MiniPloomes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\MiniPloomes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\MiniPloomes.Infrastructure.AssemblyInfo.cs
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\MiniPloomes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\MiniPloomes.Infrastructure.csproj.CopyComplete
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\MiniPloomes.Infrastructure.dll
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\refint\MiniPloomes.Infrastructure.dll
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\MiniPloomes.Infrastructure.pdb
+C:\Users\kaue\RiderProjects\MiniPloomes\MiniPloomes.Infrastructure\obj\Debug\net8.0\ref\MiniPloomes.Infrastructure.dll
